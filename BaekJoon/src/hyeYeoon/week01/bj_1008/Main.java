@@ -11,8 +11,7 @@ public class Main {
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);
-//		
-//		System.out.println("[나눗셈] 숫자를 2개 입력해 주세요 : ");
+		System.out.println("[나눗셈] 숫자를 2개 입력해 주세요 : ");
 //		double A4 = sc4.nextDouble();
 //		double B4 = sc4.nextDouble();
 //		
